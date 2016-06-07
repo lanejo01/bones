@@ -16,7 +16,7 @@ Add this to your `~/.lein/profiles.clj`
 ```
 
 Required Services:
-- Riak
+- Riak (with search enabled) sorry, docker image coming soon...
 - Redis
 
 These services are managed and run on or forked from the java process started by
